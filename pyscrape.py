@@ -2,7 +2,7 @@
 # Description: A simple file and directory scanner written in Python
 # Version: 1.0
 # Python version: 3.12.1
-# License: MIT
+# License: GNU
 # @author: andrew thomas
 
 from encodings import utf_8
